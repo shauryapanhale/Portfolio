@@ -49,11 +49,11 @@ const skillsSection = {
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "âš¡ Develop highly interactive Front end / User Interfaces for your web applications"
+      "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
     ),
-    emoji("âš¡ Managing data using tools like MySQL, Supabase, MongoDB"),
+    emoji("⚡ Managing data using tools like MySQL, Supabase, MongoDB"),
     emoji(
-      "âš¡ Deployment of web applications using serices like Netlify, Render"
+      "⚡ Deployment of web applications using serices like Netlify, Render"
     )
   ],
 
